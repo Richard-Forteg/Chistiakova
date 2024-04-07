@@ -24,6 +24,7 @@ public class method2_5 {
         System.out.print("Отсортированный массив: ");
         arrayBubbleSorter(array);
         printArrayDefault(array);
+        System.out.println("Конец программы!");
     }
     static void elemsArrayDefault(int[] array) {
         int min = 0; int max = 200;
